@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(193, 188, 188);
+    background-image: url(./wellness.jpeg);
+}
+.container{
+    display: flex;
+    margin-left: 200px;
+    height: 100vh;
+}
+h1{
+    margin-left: 20px;
+}
+.submit{
+    padding: 5px;
+    /* margin-left: 98px;
+} */
